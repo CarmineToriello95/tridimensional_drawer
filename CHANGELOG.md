@@ -9,3 +9,7 @@
 ## [0.0.3] - April 09 2020.
 
 * Update Demo gif.
+
+## [0.0.4] - April 09 2020.
+
+* Resized Demo gif

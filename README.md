@@ -11,7 +11,7 @@ Add the package to your ```pubspec.yml``` file
 
 ```yaml
 dependencies:
-    tridimensional_drawer: ^0.0.3
+    tridimensional_drawer: ^0.0.4
 ```
 
 ## Example
