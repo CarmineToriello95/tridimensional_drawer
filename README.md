@@ -4,7 +4,7 @@ Tridimensional Drawer is an easy way to create a 3D Perspective drawer, where yo
 
 ## Demo
 
-<img src="assets/tridimensional_drawer.gif" alt="drawing" width="200"/>
+<img src="https://github.com/CarmineToriello95/tridimensional_drawer/blob/master/assets/tridimensional_drawer.gif" alt="drawing" width="200"/>
 
 ## Installing
 Add the package to your ```pubspec.yml``` file
