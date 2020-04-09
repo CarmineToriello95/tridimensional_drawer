@@ -9,7 +9,7 @@ Tridimensional Drawer is an easy way to create a 3D Perspective drawer, where yo
 ## Installing
 Add the package to your ```pubspec.yml``` file
 
-```
+```yaml
 dependencies:
     tridimensional_drawer: ^0.0.1
 ```
