@@ -1,6 +1,6 @@
 name: tridimensional_drawer
 description: Tridimensional Drawer is an easy way to create a 3D Perspective drawer, where you can insert any type of widget.
-version: 0.0.1
+version: 0.0.3
 homepage: https://github.com/CarmineToriello95/tridimensional_drawer
 
 environment:

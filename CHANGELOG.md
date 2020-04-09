@@ -1,3 +1,11 @@
-## [0.0.1] - TODO: Add release date.
+## [0.0.1] - April 09 2020.
 
-* TODO: Describe initial release.
+* Testing publish.
+
+## [0.0.2] - April 09 2020.
+
+* Update Readme.
+
+## [0.0.3] - April 09 2020.
+
+* Update Demo gif.
