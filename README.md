@@ -4,11 +4,11 @@ Tridimensional Drawer is an easy way to create a 3D Perspective drawer, where yo
 
 <img src="tridimensional_drawer.gif" alt="drawing" width="200"/>
 
-# Getting started
+## Getting started
 
 To use this plugin, add 'tridimensional_drawer' as a [dependency in your pubspec.yaml file](https://flutter.dev/docs/development/packages-and-plugins/using-packages)
 
-# Example
+## Example
 
 ```dart
 import 'package:flutter/material.dart';
@@ -41,6 +41,11 @@ class _ExampleState extends State<Example> {
     );
   }
 }
+```
+
+## Hint
+If you use a widget containing a Scaffold as the mainPage, try to wrap the body of it inside a **SingleChildScrollView**, otherwise the rendering of the mainPage could go wrong at the end of the drawer opening animation. 
+
 
 
 
