@@ -7,11 +7,11 @@ Tridimensional Drawer is an easy way to create a 3D Perspective drawer, where yo
 <img src="tridimensional_drawer.gif" alt="drawing" width="200"/>
 
 ## Installing
-Add the package to your ``` pubspec.yml``` file
+Add the package to your ```pubspec.yml``` file
 
 ```dart
-dependecies:
-    tridimensional_drawer: ^0.0.1
+dependencies:
+    tridimensional_drawer: "^0.0.1"
 ```
 
 ## Example
