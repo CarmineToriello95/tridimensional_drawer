@@ -11,10 +11,11 @@ Add the package to your ```pubspec.yml``` file
 
 ```yaml
 dependencies:
-    tridimensional_drawer: ^0.0.4
+    tridimensional_drawer: ^0.0.5
 ```
 
 ## Example
+You can check the full example in the example code.
 
 ```dart
 import 'package:flutter/material.dart';
@@ -37,7 +38,7 @@ class _ExampleState extends State<Example> {
         onTap: () => controller.open(),
         child: MainPage(),
       ),
-      drawer: Drawer(),
+      drawer: CustomDrawer(),
       backgroundPage: GestureDetector(
         onTap: () => controller.close(),
         child: Container(

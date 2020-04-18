@@ -13,3 +13,7 @@
 ## [0.0.4] - April 09 2020.
 
 * Resized Demo gif
+
+## [0.0.5] - April 18 2020.
+
+* Added example folder with a full example
