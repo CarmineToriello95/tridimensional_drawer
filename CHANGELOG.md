@@ -17,3 +17,7 @@
 ## [0.0.5] - April 18 2020.
 
 * Added example folder with a full example
+
+## [0.0.6] - April 18 2020.
+
+* Update README

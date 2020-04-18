@@ -8,9 +8,9 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Travel App',
+      title: 'Example App',
       theme: ThemeData(
-        primarySwatch: Colors.orange,
+        primarySwatch: Colors.blue,
       ),
       home: Example(),
     );
@@ -54,21 +54,23 @@ class _ExampleState extends State<Example> {
 class MainPage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    return Container(
-      decoration: BoxDecoration(
-        gradient: LinearGradient(
-          colors: [
-            Colors.blue[600],
-            Colors.blue[800],
-          ],
-          begin: Alignment.topRight,
-          end: Alignment.bottomLeft,
+    return Scaffold(
+      body: Container(
+        decoration: BoxDecoration(
+          gradient: LinearGradient(
+            colors: [
+              Colors.blue[600],
+              Colors.blue[800],
+            ],
+            begin: Alignment.topRight,
+            end: Alignment.bottomLeft,
+          ),
         ),
-      ),
-      child: Center(
-        child: Text(
-          'Main Page',
-          style: TextStyle(color: Colors.white, fontSize: 24.0),
+        child: Center(
+          child: Text(
+            'Main Page',
+            style: TextStyle(color: Colors.white, fontSize: 24.0),
+          ),
         ),
       ),
     );
@@ -78,21 +80,23 @@ class MainPage extends StatelessWidget {
 class CustomDrawer extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    return Container(
-      decoration: BoxDecoration(
-        gradient: LinearGradient(
-          colors: [
-            Colors.blue[600],
-            Colors.blue[800],
-          ],
-          begin: Alignment.topLeft,
-          end: Alignment.bottomRight,
+    return Scaffold(
+      body: Container(
+        decoration: BoxDecoration(
+          gradient: LinearGradient(
+            colors: [
+              Colors.blue[600],
+              Colors.blue[800],
+            ],
+            begin: Alignment.topLeft,
+            end: Alignment.bottomRight,
+          ),
         ),
-      ),
-      child: Center(
-        child: Text(
-          'Drawer',
-          style: TextStyle(color: Colors.white, fontSize: 24.0),
+        child: Center(
+          child: Text(
+            'Drawer',
+            style: TextStyle(color: Colors.white, fontSize: 24.0),
+          ),
         ),
       ),
     );

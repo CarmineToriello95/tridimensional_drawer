@@ -11,11 +11,11 @@ Add the package to your ```pubspec.yml``` file
 
 ```yaml
 dependencies:
-    tridimensional_drawer: ^0.0.5
+    tridimensional_drawer: ^0.0.6
 ```
 
 ## Example
-You can check the full example in the example code.
+Full example available in the example folder.
 
 ```dart
 import 'package:flutter/material.dart';
