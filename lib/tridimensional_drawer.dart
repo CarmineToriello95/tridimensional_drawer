@@ -37,7 +37,7 @@ class TridimensionalDrawer extends StatefulWidget {
 }
 
 class _TridimensionalDrawerState extends State<TridimensionalDrawer>
-    with SingleTickerProviderStateMixin {
+    with TickerProviderStateMixin {
   bool _isDraggable;
   AnimationController _animationController;
 

@@ -21,3 +21,7 @@
 ## [0.0.6] - April 18 2020.
 
 * Update README
+
+## [0.1.0] - May 18 2020.
+
+* Fix Ticker issue
