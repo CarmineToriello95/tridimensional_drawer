@@ -2,6 +2,9 @@
 
 Tridimensional Drawer is an easy way to create a 3D Perspective drawer, where you can insert any type of widget.
 
+## Version 0.1.0 Note
+The version 0.1.0 solves the exception caused by the SingleTickerProviderStateMixin.
+
 ## Demo
 
 <img src="https://github.com/CarmineToriello95/tridimensional_drawer/raw/master/assets/tridimensional_drawer.gif" alt="drawing" width="200"/>
@@ -11,7 +14,7 @@ Add the package to your ```pubspec.yml``` file
 
 ```yaml
 dependencies:
-    tridimensional_drawer: ^0.1.0
+    tridimensional_drawer: ^0.1.1
 ```
 
 ## Example

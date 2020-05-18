@@ -25,3 +25,7 @@
 ## [0.1.0] - May 18 2020.
 
 * Fix Ticker issue
+
+## [0.1.1] - May 18 2020.
+
+* Update description 0.1.0 release
